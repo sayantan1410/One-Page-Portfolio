@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello there I am Sayantan Sadhu. I am a first year undergraduate in Kalyani Government engineering college. I have my interested in web development and machine learning. And I am open to all kinds of new opportunity. [My Github Profile](https://github.com/sayantan1410)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I have personally worked in making the front end of  5 page travel blog using HTML 5, BOOTSTRAP 4, CSS 3 and javascript. 
+[Link to the project repo](https://github.com/sayantan1410/intern-evaluation)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I have currently working in a hand written digit recogniser project that takes into account to the MNIST dataset. 
+
+I am also working with a face recogniser project that uses the following python package face_recognition, open cv and os. The project works as the name suggests
 
 
-[jekyll-organization]: https://github.com/jekyll
+Feel free to [E-mail](sayantan.sadhu1410@gmail.com) me 

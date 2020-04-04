@@ -1,42 +1,27 @@
 ---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
 layout: home
 ---
-<<<<<<< HEAD
-# Hi, I am Madhu!
-Computer Science Engineer in the making! As sweet as the name suggests 😊.
+# Welcome folks !!!
+## curriculum vitae 
+#### Academic Achievement
+I secured a percentage of 91.8 in my ICSE exam from the stream of science along with computer.
 
-<div class="only-print" sty>
-<h1>Contact Information</h1>
-{%- assign social = site.social -%}
-    <p>Email - {{ site.email }}</p>
-    {%- if social.github -%} GitHub : github.com/{{ social.github | cgi_escape | escape }}<br />
-    {%- endif -%}
-    {%- if social.linkedin -%} LinkedIn : linkedin.com/in/{{ social.linkedin | cgi_escape | escape }}<br />
-    {%- endif -%}
-    <br />
-</div>
+I secured a percentage of 83 in my CBSE exam studying in the stream of science excluding biology and including computer. 
 
-# About Myself
-Show your ISC skills here.  
-Here's a little bit more [About Myself](/about/).
+I have secured a rank of 2271 in my West Bengal Joint Entrance Exam and a rank of 72k(approx) in my jee mains exams. 
 
-## Education Qualifications
-First College (with GPA) then Class 12 (specify stream) then Class 10 (specify year and percentages.)
+I have secured a SGPA of 7.47 in my first semester in college.
 
-## My Coursework
-Whatever you study here (mane college curriculam plus oisob java and all)
+#### professional skills
+I am a beginner in learning HTML, CSS, Bootstrap and Javascript and made a project using it.
 
-## Building Myself On
-Your Skills Here
+I also have basic knowledge about programming languages like python, Java and C++. Among the three I am more comfortable with python.
 
-## Projects that I have worked on
-Some projects (if any else delete)
+I also have little bit knowledge in data structure and algorithms and I have a two star rating in codechef. I got 5 stars in java module in hackerrank.
 
-## Awards and Co-Curriculars
-School life things (for you :p)
+I am currently working in the field of machine learning and computer vision. I have learnt the different ML models and about different packages like numpy, matplotlib, face recognition and openCV.  
 
-## My Interests
-Your Dance, Guitar and Drama (shob meye rai kore :3)
-=======
-# Welcome
->>>>>>> parent of 54ada2e... Basic Structure Ready
+
